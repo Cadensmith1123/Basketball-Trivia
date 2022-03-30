@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Basketball-Trivia/static/css/main.c40fd9f8.css",
-    "main.js": "/Basketball-Trivia/static/js/main.b468a362.js",
+    "main.css": "/Basketball-Trivia/static/css/main.2b83da27.css",
+    "main.js": "/Basketball-Trivia/static/js/main.b689f910.js",
     "static/js/845.f29d29ab.chunk.js": "/Basketball-Trivia/static/js/845.f29d29ab.chunk.js",
     "static/media/background3.jpg": "/Basketball-Trivia/static/media/background3.d1839805210dfb08682d.jpg",
     "static/media/play.mp3": "/Basketball-Trivia/static/media/play.8e5f6d1d81d4e1414b95.mp3",
     "static/media/correct.mp3": "/Basketball-Trivia/static/media/correct.160572d72c858155072e.mp3",
     "static/media/wrong.mp3": "/Basketball-Trivia/static/media/wrong.e946821894ae9b0a0d6f.mp3",
     "index.html": "/Basketball-Trivia/index.html",
-    "main.c40fd9f8.css.map": "/Basketball-Trivia/static/css/main.c40fd9f8.css.map",
-    "main.b468a362.js.map": "/Basketball-Trivia/static/js/main.b468a362.js.map",
+    "main.2b83da27.css.map": "/Basketball-Trivia/static/css/main.2b83da27.css.map",
+    "main.b689f910.js.map": "/Basketball-Trivia/static/js/main.b689f910.js.map",
     "845.f29d29ab.chunk.js.map": "/Basketball-Trivia/static/js/845.f29d29ab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c40fd9f8.css",
-    "static/js/main.b468a362.js"
+    "static/css/main.2b83da27.css",
+    "static/js/main.b689f910.js"
   ]
 }
